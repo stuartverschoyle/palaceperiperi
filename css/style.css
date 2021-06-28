@@ -276,7 +276,7 @@ header .nav > li > a:focus, header .nav > li > a:hover {
 	padding:0;
 }
 .story-area .story-img-box  img {
-	width: 270px;
+	width: 100%;
 	padding: 5px;
 }
 .story-area .story-bottom-text{
@@ -421,8 +421,7 @@ header .nav > li > a:focus, header .nav > li > a:hover {
 }
 .reciption-area .reciption-box{
 	text-align:left;
-	padding-left:0;
-	padding-top:50px;
+	padding:0;
 }
 .reciption-area .reciption-img{padding-left:0;	}
 .reciption-area .reciption-img img{margin:0px auto;}
